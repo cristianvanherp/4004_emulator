@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(72): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(72): note: espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(84): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(84): note: espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(150): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(171): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  Gerando código
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  emulador_4004.vcxproj -> C:\Users\crist\source\repos\emulador_4004\Release\emulador_4004.exe

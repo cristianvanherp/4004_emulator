@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(144): warning C4101: 'i': variável local não referenciada
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(294): warning C4244: '=': conversão de 'double' para 'unsigned char', possível perda de dados
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(315): warning C4244: '=': conversão de 'double' para 'unsigned char', possível perda de dados
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(389): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(410): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(792): warning C4101: 'aux': variável local não referenciada
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(833): warning C4244: '=': conversão de 'double' para 'unsigned char', possível perda de dados
+c:\users\crist\source\repos\emulador_4004\emulador_4004\main.cpp(834): warning C4244: '=': conversão de 'double' para 'unsigned char', possível perda de dados
+  emulador_4004.vcxproj -> C:\Users\crist\source\repos\emulador_4004\Debug\emulador_4004.exe
